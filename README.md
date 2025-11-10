@@ -1,7 +1,6 @@
 I think reading is cool, and I want to use the tiny amount of influence that I have to convince other nerds to put TikTok away, and read some books (or at least listen to them). This is a semi-complete list of all the books that I've read, or at least, as many as I can recall. As I read more, I'll update the list.
 
 ## Sci-Fi
----
 ### Alfred Bester
 
 - The Demolished Man
