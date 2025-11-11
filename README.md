@@ -131,8 +131,8 @@ I think reading is cool, and I want to use the tiny amount of influence that I h
 ### James Clavell
 - Shogun
 - Tai-Pan
-= Gai-Jin
-= Noble House
+- Gai-Jin
+- Noble House
 
 ### Ron Chernow
 - Titan: The Life of John D. Rockefeller, Sr.
