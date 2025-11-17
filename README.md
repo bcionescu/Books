@@ -1,8 +1,8 @@
 Reading is cool; even your mom thinks so!
 
-I want to use the tiny amount of influence that I have to convince other nerds to put TikTok away, and read some books (or at least listen to them). This is a semi-complete list of all the books that I've read, or at least, as many as I can recall. As I read more, I will update the list.
+I want to use the tiny amount of influence that I have to convince other nerds to put TikTok away, and read some books (or at least listen to them). This is a semi-complete list of all the books that I've read, or at least, as many as I can recall. As I read more, I will update the list. I'll also start to include summaries of what the books are about, doing my best to avoid any spoilers.
 
-DISCLAIMER: By the way, I've included affiliate links with some of the books. If I get you to buy some books, Jeff Bezos will give me a cut ;)
+DISCLAIMER: By the way, I've included affiliate links with some of the books. If I get you to buy some, Jeff Bezos will give me a cut ;)
 
 ## Sci-Fi
 
@@ -19,6 +19,8 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 ### Daniel Keyes
 - [Flowers for Algernon](https://geni.us/FlowersForAlgernonBook)
 
+This masterpiece explores the correlation between intelligence and happiness. The main character, Charlie, was born with an IQ way below average, and all he wanted was to be smart. After a group of scientists perform an operation on him, his intelligence begins to rise. The book is written from his perspective, as a journal, detailing how his perception of the world changes with ever-increasing intelligence.
+
 ### Douglas Adams
 - [Hitchhiker's Guide to the Galaxy](https://geni.us/HitchhikersGuideBook)
 - [The Restaurant at the End of the Universe](https://geni.us/RestaurantAtTheEndBook)
@@ -26,6 +28,9 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 
 ### Frank Herbert
 - [Dune](https://geni.us/OriginalDuneBook)
+
+The Dune series explores the following theme: What happens when a charismatic leader becomes embroiled in a prophecy? Is Paul Atreides really the hero of Dune, or did Dune simply trade one dictator for another?
+
 - [Dune Messiah](https://geni.us/DuneMessiahBook)
 - [Children of Dune](https://geni.us/ChildrenOfDuneBook)
 - [God Emperor of Dune](https://geni.us/GodEmperorOfDuneBook)
@@ -49,6 +54,9 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 - [Prelude to Foundation](https://geni.us/PreludeToFoundation)
 - [Forward to Foundation](https://geni.us/ForwardToFoundation)
 - [Foundation](https://geni.us/FoundationBook)
+
+Every empire throughout history peaks, and then, inevitably, collapses. The demise comes slowly at first, and then all at once. The Foundation explores what happens to its technology, once the power structures disappear. Who will there be left to fill the void?
+
 - [Foundation and Empire](https://geni.us/FoundationAndEmpire)
 - [Second Foundation](https://geni.us/SecondFoundation)
 - [Foundation's Edge](https://geni.us/FoundationsEdge)
@@ -73,6 +81,8 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 - [Counter-Clock World](https://geni.us/CounterclockWorld)
 - [Do Androids Dream of Electric Sheep?](https://geni.us/DoAndroidsDream)
 
+The book, whilst somewhat different from Blade Runner, the film it inspired, asks its own questions. In the universe of the book, animals are all but extinct, reserved only for the wealthiest. However, as most ordinary citizens wish to signal wealth, they purchase synthetic animals, and begin to act as if they are real. Inevitably, Deckard asks himself the following questions: do the replicants desire synthetic animals of their own? Is the desire to signal status so intrinsically human, that it remains one of the few psychological quirks that distinguish them from humans?
+
 ### Ray Bradbury
 - Fahrenheit 451
 
@@ -81,12 +91,17 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 
 ### Robert A. Heinlein
 - [Double Star](https://geni.us/DoubleStar)
-- [Starship Troopers](https://geni.us/StarshipTroopers)
 - [The Door into Summer](https://geni.us/TheDoorIntoSummer)
 - [Time Enough for Love](https://geni.us/TimeEnoughForLoveBook)
+
+A rather strange book, with even stranger Oedipal themes. If you ignore all of that, it is a fascinating book with an even more fascinating premise. If a man has lived for hundreds of years, how can you convince him to keep on going?
+
 - [Citizen of the Galaxy](https://geni.us/CitizenOfTheGalaxy)
 - [Stranger in a Strange Land](https://geni.us/StrangerInAStrangeLand)
 - [The Moon is a Harsh Mistress](https://geni.us/MoonIsAHarshMistress)
+
+Imagine the American war of independence, but on the Moon. What happens when Earth becomes a distant bureaucrat, disinterested in the problems of its distant citizens?
+
 
 ### Suzanne Collins
 - [The Ballad of Songbirds and Snakes](https://geni.us/TheBalladOfSongbirds)
@@ -99,6 +114,8 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 - [Divergent](https://geni.us/DivergentBooks)
 - [Insurgent](https://geni.us/DivergentBooks)
 - [Allegiant](https://geni.us/DivergentBooks)
+
+I'm going to give you a warning. If you like the first two books, do **not** read the third. I repeat, do not read it. It will not make you a happy bunny.
 
 ## Fantasy
 
@@ -121,11 +138,18 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 ### Epictetus
 - The Enchiridion of Epictetus
 
+There are two versions of this, the Discourses, and the Enchiridion, which is the far more condensed version of the Discourses. I'd recommend you read the Enchiridion first, as it is a distillation of Epictetus's philosophy. If you want to learn about stoicism, this is the place where you start.
+
+
 ### Marcus Aurelius
 - Meditations
 
+Marcus Aurelius was considered one of the great Roman emperors. As he approached the end of his life, he could feel the end coming, and so he started journaling. His writings were never supposed to see the light of day, but they were preserved, and eventually published. Most of the text concerns itself with death, as Marcus was attempting to justify to himself why death was really not that big of a deal. Overall, it is a fascinating look into the life of a Philosopher King, and an absolute privilege to be able to peer into his thoughts.
+
 ### Yamamoto Tsunetomo
 - Hagakure
+
+This book is worth its weight in gold. Written a few centuries ago, it is a source of great wisdom. Bear in mind that some passages in the book are written specifically for a Japanese audience. As an example, some parts of the book say that you should be at any given moment willing to give your life for your master. If you're not Japanese, you can go ahead and skip those parts of the book, whilst extracting the wisdom which permeates its pages.
 
 ## History
 
