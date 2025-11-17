@@ -100,7 +100,7 @@ A rather strange book, with even stranger Oedipal themes. If you ignore all of t
 - [Stranger in a Strange Land](https://geni.us/StrangerInAStrangeLand)
 - [The Moon is a Harsh Mistress](https://geni.us/MoonIsAHarshMistress)
 
-Imagine the American war of independence, but on the Moon. What happens when Earth becomes a distant bureaucrat, disinterested in the problems of its distant citizens?
+Imagine the American war of independence, but on the Moon. What happens when Earth becomes a distant bureaucrat, disinterested in the problems of its even more distant citizens?
 
 
 ### Suzanne Collins
