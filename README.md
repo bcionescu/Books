@@ -150,3 +150,7 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 - The Girl with the Dragon Tattoo
 - The Girl Who Played With Fire
 - The Girl Who Kicked the Hornet's Nest
+
+## Manuals
+
+- [The Vim Manual](https://vimhelp.org/usr_01.txt.html#usr_01.txt)
