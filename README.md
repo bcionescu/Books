@@ -136,13 +136,13 @@ I'm going to give you a warning. If you like the first two books, do **not** rea
 ## Philosophy
 
 ### Epictetus
-- The Enchiridion of Epictetus
+- [The Enchiridion of Epictetus](https://geni.us/EnchiridionOfEpictetus)
 
 There are two versions of this, the Discourses, and the Enchiridion, which is the far more condensed version of the Discourses. I'd recommend you read the Enchiridion first, as it is a distillation of Epictetus's philosophy. If you want to learn about stoicism, this is the place where you start.
 
 
 ### Marcus Aurelius
-- Meditations
+- [Meditations](https://geni.us/TheMeditationsBook)
 
 Marcus Aurelius was considered one of the great Roman emperors. As he approached the end of his life, he could feel the end coming, and so he started journaling. His writings were never supposed to see the light of day, but they were preserved, and eventually published. Most of the text concerns itself with death, as Marcus was attempting to justify to himself why death was really not that big of a deal. Overall, it is a fascinating look into the life of a Philosopher King, and an absolute privilege to be able to peer into his thoughts.
 
