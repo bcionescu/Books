@@ -19,7 +19,7 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 ### B. C. Ionescu (hey, that's me!)
 - [Protectorate](https://dl.bookfunnel.com/u32npyhm6k)
 
-As of right now, I'm offering ARC copies of the book. This means that you get a copy for free. When the book comes out on Amazon in early January, I'll notify you by email. At that point, you are free to leave an honest review on there, but only if you wish to do so :) If you like Dune, Fallout, the Foundation series, or the Ecolitan series by L. E. Modesitt, I think you'll like this one as well.
+As of right now, I'm offering ARC copies of the book. This means that you get a copy for free. When the book comes out on Amazon in early January 2026, I'll notify you by email. At that point, you are free to leave an honest review on there, but only if you wish to do so :) If you like Dune, Fallout, the Foundation series, or the Ecolitan series by L. E. Modesitt, I think you'll like this one as well.
 
 ### Daniel Keyes
 - [Flowers for Algernon](https://geni.us/FlowersForAlgernonBook)
