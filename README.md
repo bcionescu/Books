@@ -16,6 +16,11 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 - 2001: A Space Odyssey
 - The Nine Billion Names of God
 
+### B. C. Ionescu (hey, that's me!)
+- [Protectorate](https://geni.us/Protectorate)
+
+Set deep underneath California, centuries after a cataclysmic event, Protectorate is the story of citizen A-376, who is tasked with rooting out a rebel faction that threatens to end the life of everyone he has ever known. His reward? A life extension which would allow him to live past the age of twenty-eight.
+
 ### Daniel Keyes
 - [Flowers for Algernon](https://geni.us/FlowersForAlgernonBook)
 
