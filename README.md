@@ -85,6 +85,7 @@ Every empire throughout history peaks, and then, inevitably, collapses. The demi
 ### Philip K. Dick
 - [Counter-Clock World](https://geni.us/CounterclockWorld)
 - [Do Androids Dream of Electric Sheep?](https://geni.us/DoAndroidsDream)
+- Flow My Tears, the Policeman Said
 
 The book, whilst somewhat different from Blade Runner, the film it inspired, asks its own questions. In the universe of the book, animals are all but extinct, reserved only for the wealthiest. However, as most ordinary citizens wish to signal wealth, they purchase synthetic animals, and begin to act as if they are real. Inevitably, Deckard asks himself the following questions: do the replicants desire synthetic animals of their own? Is the desire to signal status so intrinsically human, that it remains one of the few psychological quirks that distinguish them from humans?
 
