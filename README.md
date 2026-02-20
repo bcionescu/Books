@@ -154,7 +154,7 @@ There are two versions of this, the Discourses, and the Enchiridion, which is th
 Marcus Aurelius was considered one of the great Roman emperors. As he approached the end of his life, he could feel the end coming, and so he started journaling. His writings were never supposed to see the light of day, but they were preserved, and eventually published. Most of the text concerns itself with death, as Marcus was attempting to justify to himself why death was really not that big of a deal. Overall, it is a fascinating look into the life of a Philosopher King, and an absolute privilege to be able to peer into his thoughts.
 
 ### Yamamoto Tsunetomo
-- Hagakure
+- [Hagakure](https://geni.us/theHagakure)
 
 This book is worth its weight in gold. Written a few centuries ago, it is a source of great wisdom. Bear in mind that some passages in the book are written specifically for a Japanese audience. As an example, some parts of the book say that you should be at any given moment willing to give your life for your master. If you're not Japanese, you can go ahead and skip those parts of the book, whilst extracting the wisdom which permeates its pages.
 
