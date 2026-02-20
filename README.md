@@ -142,6 +142,12 @@ I'm going to give you a warning. If you like the first two books, do **not** rea
 
 ## Philosophy
 
+### Arthur Schopenhauer
+
+- On Women
+- On Reading and Books
+
+
 ### Epictetus
 - [The Enchiridion of Epictetus](https://geni.us/EnchiridionOfEpictetus)
 
