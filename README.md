@@ -191,3 +191,10 @@ This book is worth its weight in gold. Written a few centuries ago, it is a sour
 ## Manuals
 
 - [The Vim Manual](https://vimhelp.org/usr_01.txt.html#usr_01.txt)
+
+## Programming & Computer Science
+
+### General
+
+- [How Computers Really Work](https://geni.us/HowComputersReallyWork)
+A fantastic introductory book that will walk you through the basics of how CPUs handle data, how programming languages work, and more.
