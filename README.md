@@ -2,7 +2,7 @@
 
 In a spell of madness, I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works, [I Whisper](stories/shorts/i-whisper/chapter-1.md) and [Protectorate](), my first novel.
 
-If you’re here for the list of books I have read, you can still [read it here](book-list.md).
+If you’re here for the list of books I have read, you can still [find it here](book-list.md).
 
 ## FAQ
 
