@@ -12,7 +12,7 @@ Because I want as many people as possible to read them. If you enjoy them, at th
 
 ### What can I do with your stories?
 
-You can read them, share them with others, and you can even write fan-fiction (if you wish). However, I retain the rights to my stories, and so you can’t make money off of them. You can’t sell them, charge for them, etc.
+My stories are licensed under [CC BY-NC-SA](LICENSE). You can read them, share them with others, and you can even write fan-fiction (if you wish). However, I retain the rights to my stories, and so you can’t make money off of them. You can’t sell them, charge for them, and if you do write fan-fiction, you can’t charge for it, and you have to publish it under the same license.
 
 ### If I spot an error, can I submit a pull request and correct it?
 
