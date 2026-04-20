@@ -24,4 +24,4 @@ Yes, however, please submit an issue first. This is for two reasons: the first o
 
 ### How can I support your work?
 
-You can donate via [Liberpay](https://liberapay.com/bcionescu/), [Ko-Fi](https://ko-fi.com/bcionescu), [Buy Me a Coffee](https://buymeacoffee.com/bcionescu), or you can [become a member on my YouTube channel](https://www.youtube.com/channel/UCMkMs3Val6p1J6ZJe-TJ65Q/join). Alternatively, you can [leave a star](https://github.com/bcionescu/Books) on this repo, if you have a GitHub account, to help it shine.
+You can donate via [Liberpay](https://liberapay.com/bcionescu/), [Ko-Fi](https://ko-fi.com/bcionescu), [Buy Me a Coffee](https://buymeacoffee.com/bcionescu), or you can [become a member on my YouTube channel](https://www.youtube.com/channel/UCMkMs3Val6p1J6ZJe-TJ65Q/join). Alternatively, you can leave a star on this repo, if you have a GitHub account, to help it shine.
