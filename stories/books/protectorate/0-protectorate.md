@@ -20,13 +20,13 @@ I would also like to thank the early readers of Protectorate, who decided to giv
 ## Table of Contents
 
 + [Prologue](00-prologue.md)
-+ [Chapter 01 - The Orchard](03-the-orchard.md)
-+ [Chapter 02 - Gifting Day]
-+ [Chapter 03 - Trust]
-+ [Chapter 04 - Summons]
-+ [Chapter 05 - Opportunities]
-+ [Chapter 06 - The Heist]
-+ [Chapter 07 - Conversations]
++ [Chapter 01 - The Orchard](01-the-orchard.md)
++ [Chapter 02 - Gifting Day](02-gifting-day.md)
++ [Chapter 03 - Trust](03-trust.md)
++ [Chapter 04 - Summons](04-summons.md)
++ [Chapter 05 - Opportunities](05-opportunities.md)
++ [Chapter 06 - The Heist](06-the-heist.md)
++ [Chapter 07 - Conversations](07-conversations.md)
 + [Chapter 08 - The Infiltration]
 + [Chapter 09 - The Truth]
 + [Chapter 10 - Preparations]
