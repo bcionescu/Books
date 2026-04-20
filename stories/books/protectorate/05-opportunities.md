@@ -1,5 +1,5 @@
 # Opportunities
-_Adam_
+### Adam
 
 The entity flashes before me, its long, flowing hair covering much of its face. Its eyes fixed upon mine, mouth curled downwards, arms outstretched, it runs towards me.
 

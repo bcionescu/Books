@@ -1,5 +1,5 @@
 # Trust
-_Head Praetorian_
+### Head Praetorian
 
 Staring out into space, I feel lost in thought. My head turns as someone knocks on the door.
 
@@ -43,7 +43,7 @@ With a few keystrokes, I open a private communication channel on my machine and 
 
 * * *
 
-_Adam_
+### Adam
 
 As I step outside the Head Praetorian’s office into the fresh air, I can feel my knees shaking. Why did the head Praetorian feel the need to warn me about this mission?
 

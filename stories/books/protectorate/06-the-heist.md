@@ -1,5 +1,5 @@
 # The Heist
-_Adam_
+### Adam
 
 The sound of a Lumina drone passing by my window wakes me. Did I fall asleep? Is there still time before the mission? I check my watch and realize I will be cutting it close.
 
@@ -87,7 +87,7 @@ My heart rate jumps twenty points as I feel my wristwatch vibrate.
 
 * * *
 
-_Augustus_
+### Augustus
 
 “V, can you hear me?”
 
@@ -267,7 +267,7 @@ I’m not sure if we can trust him or not, but now I know we can blackmail him. 
 
 * * *
 
-_Adam_
+### Adam
 
 Turning around, I exit the facility, leaving the rebels to take all the explosives they need. As I step outside, I allow the cool air to soothe my face.
 
