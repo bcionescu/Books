@@ -273,4 +273,6 @@ Turning around, I exit the facility, leaving the rebels to take all the explosiv
 
 I am ecstatic. I’ve done it! I have managed to get my foot in the door, even if it’s because they believe me to be blackmailable. Once contacted by one of their associates, I’ll have the opportunity to prove myself and gain further access to the organisation.
 
-How would I need to prove myself, I wonder. I will likely have to do something illegal, demonstrating my desire to leave. The mayor has guaranteed me immunity from any crimes I may commit during his infiltration, so it does not matter. Soon, they will all be in custody, and one day, I will die a very old man.
+How would I need to prove myself, I wonder. I will likely have to do something illegal, demonstrating my desire to leave. The mayor has guaranteed me immunity from any crimes I may commit during his infiltration, so it does not matter. Soon, they will all be in custody, and one day, I will die a very old man.
+
+[Next Chapter >](07-conversations.md)

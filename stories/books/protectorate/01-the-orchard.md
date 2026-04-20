@@ -94,4 +94,4 @@ I walk over to the container and pick up a second shovel. “It’s a quiet nigh
 
 “Then let’s get started.”
 
-[Next Chapter >]
+[Next Chapter >](02-gifting-day.md)

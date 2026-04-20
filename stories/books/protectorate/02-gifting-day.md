@@ -143,4 +143,4 @@ My heart skips a beat. Why would the head Praetorian want to see me?
 
 Sylvan grins and nods his head in understanding as he walks away.
 
-
+[Next Chapter >](03-trust.md)

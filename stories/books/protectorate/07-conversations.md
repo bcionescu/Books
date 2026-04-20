@@ -121,6 +121,6 @@ However, what if things do not go to plan? What if I can not figure out what the
 
 My head hurts; too many variables and way too many potential outcomes.
 
-I decide not to worry about it, and that I should get some more rest if I am to perform well this evening. With that thought still ringing in my mind, I drift back to sleep.
+I decide not to worry about it, and that I should get some more rest if I am to perform well this evening. With that thought still ringing in my mind, I drift back to sleep.
 
-
+[Next Chapter >](08-the-infiltration.md)

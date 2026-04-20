@@ -53,4 +53,4 @@ Would the mayor truly give me an option? If so, what would happen if I say no? W
 
 Whatever the case, I have no choice in the matter. I will speak to the mayor and learn the specifics of the mission.
 
-
+[Next Chapter >](04-summons.md)
