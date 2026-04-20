@@ -1,10 +1,5 @@
 # Protectorate
 
-```
-Psst. I’m moving over each chapter as we speak. The experience will be a bit broken until then.
-You might want to come back tomorrow, at which point it should be ready.
-```
-
 *We never have enough choices, never enough. When a choice presents itself, you take it. You take it and run, and hope nobody ever tries to grab it from you.*
 
 Set deep underneath California, centuries after a cataclysmic event, Protectorate is the story of citizen A-376, who is tasked with rooting out a rebel faction that threatens to end the life of everyone he has ever known.
