@@ -191,7 +191,7 @@ I look around. Why are there no Praetorians? Why did the mayor choose to meet us
 
 “You see, all of you have rather become a nuisance. You know too much, and attempts at finding you have failed. Now I know why,” he says, looking at Octavian and V.
 
-“No, I shan’t stop you. In fact, I can not allow you to stay. You have to leave,” he says, as he walks over to a computer terminal and begins typing.
+“No, I shan’t stop you. In fact, I can not allow you to stay. You _have_ to leave,” he says, as he walks over to a computer terminal and begins typing.
 
 “Your upload, by the way,” says the mayor, “I’m afraid it did not go through.” He looks up at V, mockingly pouting his lips at him.
 

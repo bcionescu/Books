@@ -17,7 +17,7 @@ Looking straight ahead, a glass wall reveals a large garden in the back.
 
 As the machine begins to spin, V performs a bow and says, “S-72, at your service.”
 
-S-class?
+_S-class?_
 
 I look at him in bewilderment. “There is an S-class?”
 

@@ -35,7 +35,7 @@ The mayor follows my gaze and says, “Ah, the music. Do you like it?”
 
 “I’m not sure what it is, sir.”
 
-“It is an old tune from ancient times, called The Planets, by Gustav Holst. Do you know it?”
+“It is an old tune from ancient times, called _The Planets_, by Gustav Holst. Do you know it?”
 
 I can not help but be absorbed by the music. I have never heard anything like this before, but I know that the mayor is aware of that. Is he setting a trap for me?
 
@@ -89,7 +89,7 @@ I had wondered this throughout my life; however, I have to be cautious. It is ev
 
 “Very good,” the mayor says. “You are correct that the world above us is destroyed. However, I notice you’re wearing an Atomizer. How do you reconcile those two facts?”
 
-Looking down at my weapon, it occurs to me that I had never considered this. If atomics did indeed destroy the world above, leaving only the Protectorate below, why do we use weapons and vehicles powered by atomics?
+Looking down at my weapon, it occurs to me that I had never considered this. If atomics did indeed destroy the world above, leaving only the Protectorate below, why _do_ we use weapons and vehicles powered by atomics?
 
 Lowering my head, I answer, “I’m afraid I do not know, sir. The founders of the Protectorate are far wiser than I, so I defer to their judgment.”
 
@@ -217,9 +217,9 @@ I had heard of such files existing, but I have never been able to confirm it.
 
 I swallow, but say nothing as I continue to read.
 
-Citizen A-376 has shown remarkable physical and intellectual capacity, in line with his extraordinary genetics. Upon finishing his schooling at the Praetorian Academy, he was appointed to a starter law enforcement position.
+_Citizen A-376 has shown remarkable physical and intellectual capacity, in line with his extraordinary genetics. Upon finishing his schooling at the Praetorian Academy, he was appointed to a starter law enforcement position._
 
-However, due to his extraordinary mind and constitution, it is recommended that he be given type one missions.
+_However, due to his extraordinary mind and constitution, it is recommended that he be given type one missions._
 
 I wonder who wrote that.
 

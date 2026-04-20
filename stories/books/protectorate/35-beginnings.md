@@ -67,8 +67,8 @@ _Worry not, Mr. Eriksson. We are here to help._
 
 ## ❤️ Support
 
-Hi, I’m Cristian, the author of Protectorate. I make my works available for free for everyone to read. If you would like to help me produce more works such as these, consider supporting me.
+Hi, I’m Cristian, the author of this story. I make my works available for free for everyone to read. If you would like to help me produce more works such as these, consider supporting me.
 
-You can donate via [Liberpay](https://liberapay.com/bcionescu/), [Ko-Fi](https://ko-fi.com/bcionescu), [Buy Me a Coffee](https://buymeacoffee.com/bcionescu), or you can [become a member on my YouTube channel](https://www.youtube.com/channel/UCMkMs3Val6p1J6ZJe-TJ65Q/join).
+You can donate via [Liberpay](https://liberapay.com/bcionescu/), [Ko-Fi](https://ko-fi.com/bcionescu), [Buy Me a Coffee](https://buymeacoffee.com/bcionescu), or you can [become a member on my YouTube channel](https://www.youtube.com/channel/UCMkMs3Val6p1J6ZJe-TJ65Q/join). Alternatively, you can [leave a star](https://github.com/bcionescu/Books) on this repo, if you have a GitHub account, to help it shine.
 
 [Go back to the README](https://github.com/bcionescu/Books)

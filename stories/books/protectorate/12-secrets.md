@@ -37,7 +37,7 @@ Walking down the stairs of the academy, the doors of the vehicle open as we appr
 
 “I don’t think boys who are in trouble get to ride in vehicles,” I reply.
 
-“No, not unless they’re in really big trouble,” says Octavian. We look at each other and burst out laughing.
+“No, not unless they’re in _really_ big trouble,” says Octavian. We look at each other and burst out laughing.
 
 Arriving at its destination, the vehicle comes to a stop and soundlessly opens its doors, allowing us to jump out.
 
@@ -65,7 +65,7 @@ He looks at us over his desk, his sallow eyes darting left and right.
 
 We look at each other, and then back at the mayor, shaking our heads.
 
-“You must have some notion,” he insists.
+“You must have _some_ notion,” he insists.
 
 I clear my throat. “We suppose it may have to do with the fact that we’re the top two graduates of the Academy?”
 
@@ -75,7 +75,7 @@ A smile flashes over the tired mayor’s face. “Go on,” he says.
 
 “You are both correct,” says the mayor.
 
-“We are wondering,” Octavian continues, in a hesitant tone, “why we would be summoned, given how green we are.”
+“We are wondering,” Octavian continues, in a hesitant tone, “why _we_ would be summoned, given how green we are.”
 
 “The reason why you have been called is because of how green you are.”
 
@@ -213,7 +213,7 @@ The mayor smiles. “Yes, the city founders sure had a good sense of humour. Ind
 
 The mayor nods. “Indeed. The next solar storm had the same effect on technology, causing electronic devices to catch fire; however, this time, the Earth was covered in tech. It was in our homes, government buildings, infrastructure, and satellites; everywhere. When the storm hit, it destroyed all of it. Even though only a small percentage of it caught fire, that was enough to set civilization back by millennia.”
 
-“Then how come we have technology?” I ask.
+“Then how come _we_ have technology?” I ask.
 
 “Because the Protectorate built this facility with that eventuality in mind. The large bunker in which we have spent our entire lives is shielded, thus all technology in it survived. Everyone was moved in after the event took place, right as the violence began.
 

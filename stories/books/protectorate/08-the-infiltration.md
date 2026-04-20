@@ -25,7 +25,7 @@ He pats the tall man next to him on the back.
 
 Sylvan turns around and points to an inconspicuous building.
 
-“— and that is our mission.”
+“— and _that_ is our mission.”
 
 I look at the building, but I can not make out its purpose. It does not look like a residential building, but it also does not have any signs on it, meaning that it could not be a government building.
 
@@ -213,11 +213,11 @@ I instantaneously fall to the floor as the man beneath me disappears. I now lie 
 
 “What did you do?” Sylvan whispers, traces of panic in his voice.
 
-“I—I had it set to stun,” I manage to murmur.
+“I—I had it set to _stun_,” I manage to murmur.
 
 Everyone stares at me, not knowing what to do.
 
-“It is clear,” says V, “that in the commotion, the guard tried to grab your Atomizer and accidentally switched it to vaporize as he did so.”
+“It is clear,” says V, “that in the commotion, the guard tried to grab your Atomizer and accidentally switched it to _vaporize_ as he did so.”
 
 Regaining his composure, Sylvan nods his head in agreement.
 
@@ -239,7 +239,7 @@ I nod, blood covering my entire body.
 
 “Almost there, boss,” V responds.
 
-“And you,” adds Sylvan, “make sure you set your Atomizer back to stun. We don’t want any more bodies.”
+“And you,” adds Sylvan, “make sure you set your Atomizer back to _stun_. We don’t want any more bodies.”
 
 Looking down at my weapon, I make the required change.
 
@@ -317,7 +317,7 @@ As we walk down what seems like an endless corridor, the floors illuminate, betr
 
 We flank the door on each side, as Sylvan counts us down.
 
-1-2-3
+_1-2-3_
 
 Augustus swears. The door is locked.
 
@@ -443,7 +443,7 @@ I can feel my body being turned to face Sylvan.
 
 Oh yes, old friend. You know what you need to do. I’m glad that it will be you who does it.
 
-I can’t move my eyes, but I can still see the kid. He is saying something as Sylvan switches his Atomizer from stun to vaporize.
+I can’t move my eyes, but I can still see the kid. He is saying something as Sylvan switches his Atomizer from _stun_ to _vaporize_.
 
 It’s not such a bad day to die.
 
@@ -503,7 +503,7 @@ Noticing my surprise, Sylvan says, “Relax, kid, he’s one of us. You both are
 
 The memory of my meeting with Octavian the day before floods my mind.
 
-I do not know whether you can truly be trusted with this.
+_I do not know whether you can truly be trusted with this._
 
 Is this what he meant? At the time, I had assumed he meant that he was unsure whether I could complete the mission.
 

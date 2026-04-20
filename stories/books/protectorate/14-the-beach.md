@@ -59,7 +59,7 @@ He reaches out his hand and places it on the pad. The device turns red, indicati
 
 “There’s only one direction we can go in,” says V, pointing up to the distant forest above the hill.
 
-“If we want to find water and food, a forest is a good place to start. Plus, we all have Atomizers, so wild animals won’t be an issue. Just make sure to set them to stun, so that we don’t accidentally vaporize our meal.”
+“If we want to find water and food, a forest is a good place to start. Plus, we all have Atomizers, so wild animals won’t be an issue. Just make sure to set them to _stun_, so that we don’t accidentally vaporize our meal.”
 
 Having done so, we begin climbing towards the forest.
 
@@ -67,7 +67,7 @@ Having done so, we begin climbing towards the forest.
 
 Smiling, I know that V’s right. “Very much so, yes,” I reply.
 
-We pass a faded sign that says Bonny Doon Beach. I wonder what that means.
+We pass a faded sign that says _Bonny Doon Beach_. I wonder what that means.
 
 I look over at Sylvan and say, “You’re being awfully quiet.”
 

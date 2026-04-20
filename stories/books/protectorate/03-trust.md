@@ -49,7 +49,7 @@ As I step outside the Head Praetorian’s office into the fresh air, I can feel 
 
 As I think, I make my way to the mayor’s office.
 
-Would the mayor truly give me an option? If so, what would happen if I say no? Would I be informed that I have to do it anyway, or would the mayor apparently accept my decision, only to make my life a living hell afterwards? Does saying no count as treason? Will I be executed for refusing?
+Would the mayor truly give me an option? If so, what _would_ happen if I say no? Would I be informed that I have to do it anyway, or would the mayor apparently accept my decision, only to make my life a living hell afterwards? Does saying no count as treason? Will I be executed for refusing?
 
 Whatever the case, I have no choice in the matter. I will speak to the mayor and learn the specifics of the mission.
 

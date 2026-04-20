@@ -9,21 +9,14 @@ Morning light bathes the procession, lending their robes an eerie glow. At the h
 
 As the group grows nearer, I can hear them sing, their voices echoing through the valley.
 
-Cross, brave soldier,
-
-Cross the mountains,
-
-Cross the valleys,
-
-Come, rest your weary head
-
-For the road has been long
-
-And you must be tired
-
-Your responsibilities
-
-Can now be shed.
+_Cross, brave soldier,_
+_Cross the mountains,_
+_Cross the valleys,_
+_Come, rest your weary head_
+_For the road has been long_
+_And you must be tired_
+_Your responsibilities_
+_Can now be shed._
 
 “How far off are you?” Sylvan asks.
 
