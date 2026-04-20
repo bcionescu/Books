@@ -1,5 +1,5 @@
 # Gifting Day
-_Adam_
+### Adam
 
 Morning light bathes the procession, lending their robes an eerie glow. At the head of the pack is the mayor, leading the men in our direction.
 
