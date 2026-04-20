@@ -13,7 +13,7 @@ I would also like to thank the early readers of Protectorate, who decided to giv
 
 ## Table of Contents
 
-+ [Prologue](prologue.md)
++ [Prologue](02-prologue.md)
 + [Chapter ]()
 + [Chapter ]()
 + [Chapter ]()
