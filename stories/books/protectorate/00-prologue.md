@@ -10,4 +10,4 @@ Without looking, I aim the Atomizer behind me, shooting aimlessly. Judging by th
 
 As we reach the edge of the forest, I help Ambrosia get inside the vehicle, jumping into my own seat immediately after. Looking around in a frenzy, I press the ignition button. The vehicle roars, producing a sound that does not bode well, as the engine dies with a tremor.
 
-[Next Chapter >](03-the-orchard.md)
+[Next Chapter >](01-the-orchard.md)
