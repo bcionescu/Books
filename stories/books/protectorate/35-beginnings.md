@@ -63,7 +63,7 @@ As a strange voice echoes inside my head, I can feel my heart skip. My eyes dart
 
 _Worry not, Mr. Eriksson. We are here to help._
 
-*End of Book One*
+**End of Book One**
 
 ## ❤️ Support
 
