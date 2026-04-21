@@ -1,6 +1,6 @@
 # Books
 
-I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works, [I Whisper](stories/shorts/i-whisper/0-i-whisper.md) and [Protectorate](stories/books/protectorate/0-protectorate.md), my first novel.
+I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works, [Whisper](stories/shorts/whisper/0-whisper.md) and [Protectorate](stories/books/protectorate/0-protectorate.md), my first novel.
 
 If you’re here for the list of books I have read, you can still [find it here](book-list.md).
 
