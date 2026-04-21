@@ -1,4 +1,5 @@
 # I Whisper
+_Short Sci-Fi story, approx. 6200 words, 45 minute reading time_
 
 A warm summer breeze fills my Police cruiser as I drive past a large advertising panel. Playing on a loop, the video displays a woman smiling as she zips her mouth closed. My lips barely moving, I mimic the message that follows.
 

@@ -1,4 +1,5 @@
 # Protectorate
+_Sci-Fi Novel, approx. 60,000 words, 7.5 hour reading time_
 
 *We never have enough choices, never enough. When a choice presents itself, you take it. You take it and run, and hope nobody ever tries to grab it from you.*
 
