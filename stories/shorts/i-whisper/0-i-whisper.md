@@ -9,11 +9,11 @@ Claudius races against time to solve a murder at the hands of religious fanatics
 
 # Table of Contents
 
-+ [Chapter 1](chapter-1.md)
-+ [Chapter 2](chapter-2.md)
-+ [Chapter 3](chapter-3.md)
-+ [Chapter 4](chapter-4.md)
-+ [Chapter 5](chapter-5.md)
-+ [Chapter 6](chapter-6.md)
-+ [Chapter 7](chapter-7.md)
++ [Chapter 01 - Neuralbond](chapter-1.md)
++ [Chapter 02 - The Interrogation](chapter-2.md)
++ [Chapter 03 - Surprise](chapter-3.md)
++ [Chapter 04 - Disagreement](chapter-4.md)
++ [Chapter 05 - Answers](chapter-5.md)
++ [Chapter 06 - Salt](chapter-6.md)
++ [Chapter 07 - Clouds](chapter-7.md)
 + [One Year Later](one-year-later.md)

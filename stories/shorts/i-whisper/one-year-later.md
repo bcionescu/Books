@@ -1,3 +1,5 @@
+# One Year Later
+
 I look out over the Golden Gate bridge, slumped into the water, as Mika-chan runs around us happily. Occasionally, she stops to look at her newborn baby brother, before running off again, laughing happily.
 
 Picking up the newspaper, I once again read the headline.

@@ -1,3 +1,5 @@
+# Neuralbond
+
 A warm summer breeze fills my Police cruiser as I drive past a large advertising panel. Playing on a loop, the video displays a woman smiling as she zips her mouth closed. My lips barely moving, I mimic the message that follows.
 
 *Honorable citizens only use neuralspeek.*
@@ -130,7 +132,7 @@ Someone had crossed out *future*, replacing it with *crime*.
 
 “How many of them are Japanese?” I ask.
 
-“Most of them,” says Thadeus. “Many of them were born upstanding citizens, with neuralbond implants, but once the war started, many struggled to find employment. In the end, they fell in with the remaining Rellies.”
+“Most of them,” says Thadeus. “Many of them were born upstanding citizens, with neuralbond implants, but once the war started, they increasingly struggled to find employment. In the end, they fell in with the remaining Rellies.”
 
 Sensing movement to my right, I turn my head. A small child holding a rag doll peers at us from behind a partly opened door. Even in the dimly lit room, I can see that her face is wet.
 
