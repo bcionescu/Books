@@ -1,4 +1,4 @@
-# I Whisper
+# Whisper
 _Short Sci-Fi story, approx. 6200 words, 45 minute reading time_
 
 # Synopsis
