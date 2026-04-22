@@ -2,7 +2,7 @@
 
 I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works: Whisper, a short story, and Protectorate, a novel.
 
-<div><a href="shorts/whisper/0-whisper.md"><img src="assets/covers/whisper-cover.webp" width="250"></a><a href="stories/books/protectorate/0-protectorate.md"><img src="assets/covers/protectorate-cover.webp" width="250" style="padding-right: 20px;"></a></div>
+<div><a href="stories/shorts/whisper/0-whisper.md"><img src="assets/covers/whisper-cover.webp" width="250"></a><a href="stories/books/protectorate/0-protectorate.md"><img src="assets/covers/protectorate-cover.webp" width="250" style="padding-right: 20px;"></a></div>
 
 ## Books That I've Read
 
