@@ -1,19 +1,26 @@
 # Protectorate
 _Sci-Fi Novel, approx. 60,000 words, 7.5 hour reading time_
 
-## Synopsis
-
-*We never have enough choices, never enough. When a choice presents itself, you take it. You take it and run, and hope nobody ever tries to grab it from you.*
-
-Set deep underneath California, centuries after a cataclysmic event, Protectorate is the story of citizen A-376, who is tasked with rooting out a rebel faction that threatens to end the life of everyone he has ever known.
-
-His reward? A life extension which would allow him to live past the age of twenty-eight.
+<div id="header" align="center">
+  <a href="00-prologue.md"><img src="../../../assets/covers/protectorate-cover.webp" width="200" align="left" style="margin-right: 20px;" /><a>
+  
+  <div align="left">
+    <h2>Synopsis</h2>
+    <p>
+      <i>We never have enough choices, never enough. When a choice presents itself, you take it. You take it and run, and hope nobody ever tries to grab it from you.</i>
+    </p>
+    <p>
+      Set deep underneath California, centuries after a cataclysmic event, Protectorate is the story of citizen A-376, who is tasked with rooting out a rebel faction that threatens to end the life of everyone he has ever known.
+    </p>
+    <p>
+      His reward? A life extension which would allow him to live past the age of twenty-eight.
+    </p>
+  </div>
+</div>
 
 ## Acknowledgments
 
-Thank you to everyone who helped make this book possible: to my father, Dan, who was the first person to read it, and to Adam, who provided early encouragement.
-
-I would also like to thank the early readers of Protectorate, who decided to give it a chance: Bart the netrunner, Erik Grootoonk, Frans Slothouber, Guy Hayes, Muhammad Aown Rafaqat, Pyotr Ilyich Sakamoto, and Željko Radinski.
+Thank you to my father, Dan, who first read the book, and to Adam, who provided early encouragement. Additionally, I would also like to thank the early readers of Protectorate, who decided to give it a chance: Bart the netrunner, Erik Grootoonk, Frans Slothouber, Guy Hayes, Muhammad Aown Rafaqat, Pyotr Ilyich Sakamoto, and Željko Radinski.
 
 ## Table of Contents
 
