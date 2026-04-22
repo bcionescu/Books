@@ -1,6 +1,6 @@
 # Books
 
-I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works: Whisper, a short sotry, and Protectorate, a novel.
+I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works: Whisper, a short story, and Protectorate, a novel. If you wish, you can also read my books on [Royal Road](https://www.royalroad.com/profile/957219/fictions) or [Wattpad](https://www.wattpad.com/user/speakmachine).
 
 <div><a href="shorts/whisper/0-whisper.md"><img src="assets/covers/whisper-cover.webp" width="250"></a><a href="stories/books/protectorate/0-protectorate.md"><img src="assets/covers/protectorate-cover.webp" width="250" style="padding-right: 20px;"></a></div>
 
