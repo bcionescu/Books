@@ -1,6 +1,6 @@
 # Books
 
-I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works: Whisper, a short story, and Protectorate, a novel. If you wish, you can also read my books on [Royal Road](https://www.royalroad.com/profile/957219/fictions) or [Wattpad](https://www.wattpad.com/user/speakmachine).
+I have decided to make my science fiction writing publicly available here, for everyone to read. So far, the list contains two works: Whisper, a short story, and Protectorate, a novel.
 
 <div><a href="shorts/whisper/0-whisper.md"><img src="assets/covers/whisper-cover.webp" width="250"></a><a href="stories/books/protectorate/0-protectorate.md"><img src="assets/covers/protectorate-cover.webp" width="250" style="padding-right: 20px;"></a></div>
 
@@ -13,6 +13,10 @@ If you’re here for the list of books I have read, you can still [find it here]
 ### Why are you publishing your books for free?
 
 Because I want as many people as possible to read them. If you enjoy them, at the end of each story you will find a bunch of links where you can make a donation, and support me that way.
+
+### Do you publish your stories anywhere else?
+
+Yes. You can read the stories for free not just here, but also on [Royal Road](https://www.royalroad.com/profile/957219/fictions) or [Wattpad](https://www.wattpad.com/user/speakmachine). Alternatively, you can [purchase my books on Amazon.](https://geni.us/protectorate)
 
 ### What can I do with your stories?
 
@@ -28,4 +32,4 @@ Yes, however, please submit an issue first. This is for two reasons: the first o
 
 ### How can I support your work?
 
-You can donate via [Liberpay](https://liberapay.com/bcionescu/), [Ko-Fi](https://ko-fi.com/bcionescu), [Buy Me a Coffee](https://buymeacoffee.com/bcionescu), or you can [become a member on my YouTube channel](https://www.youtube.com/channel/UCMkMs3Val6p1J6ZJe-TJ65Q/join). Alternatively, you can leave a star on this repo, if you have a GitHub account, to help it shine.
+If you would like to help me produce more works, [consider supporting me](https://speakmachine.link/donate). Alternatively, you can leave a star on this repo, if you have a GitHub account, to help it shine.
