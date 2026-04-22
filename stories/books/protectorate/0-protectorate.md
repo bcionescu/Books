@@ -1,11 +1,12 @@
 # Protectorate
 _Sci-Fi Novel, approx. 60,000 words, 7.5 hour reading time_
 
+## Synopsis
+
 <div id="header" align="center">
   <a href="00-prologue.md"><img src="../../../assets/covers/protectorate-cover.webp" width="200" align="left" style="margin-right: 20px;" /><a>
   
   <div align="left">
-    <h2>Synopsis</h2>
     <p>
       <i>We never have enough choices, never enough. When a choice presents itself, you take it. You take it and run, and hope nobody ever tries to grab it from you.</i>
     </p>
@@ -20,7 +21,7 @@ _Sci-Fi Novel, approx. 60,000 words, 7.5 hour reading time_
 
 ## Acknowledgments
 
-Thank you to my father, Dan, who first read the book, and to Adam, who provided early encouragement. Additionally, I would also like to thank the early readers of Protectorate, who decided to give it a chance: Bart the netrunner, Erik Grootoonk, Frans Slothouber, Guy Hayes, Muhammad Aown Rafaqat, Pyotr Ilyich Sakamoto, and Željko Radinski.
+Thank you to my father, and to Adam, who provided early encouragement. Additionally, I would also like to thank the early readers of Protectorate, who decided to give it a chance: Bart the netrunner, Erik Grootoonk, Frans Slothouber, Guy Hayes, Muhammad Aown Rafaqat, Pyotr Ilyich Sakamoto, and Željko Radinski.
 
 ## Table of Contents
 
