@@ -26,10 +26,6 @@ My stories are licensed under [CC BY-NC-SA](LICENSE). You can read them, share t
 
 Yes.
 
-### Can I translate any of your stories?
-
-Yes, however, please submit an issue first. This is for two reasons: the first one is so that two people don’t work on the same translation at the same time. The second is because I do not want any machine translated slop. If you do wish to translate any of my stories, you’ll need to show that you have some sort of credentials. I think that’s a fair request.
-
 ### How can I support your work?
 
 If you would like to help me produce more works, [consider supporting me](https://speakmachine.link/donate). Alternatively, you can leave a star on this repo, if you have a GitHub account, to help it shine.
