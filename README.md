@@ -16,7 +16,7 @@ Because I want as many people as possible to read them. If you enjoy them, at th
 
 ### Do you publish your stories anywhere else?
 
-Yes. You can read the stories for free not just here, but also on [Royal Road](https://www.royalroad.com/profile/957219/fictions) or [Wattpad](https://www.wattpad.com/user/speakmachine). Alternatively, you can [purchase my books on Amazon.](https://geni.us/protectorate)
+Yes. You can read the stories for free not just here, but also on [Royal Road](https://www.royalroad.com/profile/957219/fictions). Alternatively, you can [purchase my books on Amazon.](https://geni.us/protectorate)
 
 ### What can I do with your stories?
 
