@@ -6,7 +6,7 @@ I have decided to make my science fiction writing publicly available here, for e
 
 ## Books That I've Read
 
-If you’re here for the list of books I have read, you can still [find it here](book-list.md).
+If you’re here for the list of books I have read, you can still [find the fiction list here](book-list.md), and the [programming books here](programming-books.md).
 
 ## FAQ
 
