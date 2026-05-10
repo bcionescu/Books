@@ -26,6 +26,15 @@ Covers both C89 and C99, and I found it easier to follow than the
 
 Much like [How Computers Really Work](https://geni.us/HowComputersReallyWork), this books covers the basic mechanisms that make up a computer. If you’ve heard that a computer is essentially a bunch of NAND gates, this book will explain why that is, and how it works. I found both of these books to be valuable, just for different reasons.
 
+## Currently Reading
+
+- [Operating Systems - Three Easy Pieces](https://geni.us/OS-Three-Easy-Pieces)
+
+The book covers many aspects of how operating systems work. It’s a really enjoyable read so far.
+
+## Paused
+Sometimes I might get ahead of myself, and begin to read a book that I am not ready for. When that happens, I press pause, and start reading a simpler book. Once I feel ready, I will return to this book.
+
 - [The Linux Programming Interface](https://geni.us/linux-prog-interface)
 
 An arcane tome made up of 1,500 pages of densely-packed goodness. This book will take me a while to get through, but it uncovers many aspects of how the Linux kernel works underneath the hood. This also ties in with C, as of course Linux and C are very closely connected.
