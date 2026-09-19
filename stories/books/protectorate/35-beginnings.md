@@ -67,6 +67,6 @@ _Worry not, Mr. Eriksson. We are here to help._
 
 ## ❤️ Support
 
-Hi, I’m Cristian, the author of this story. I make my works available for free for everyone to read. If you would like to help me produce more works such as these, consider supporting me by purchasing a story from [my store](https://shop.bcionescu.com), from [Amazon](https://www.geni.us/Protectorate), or by [making a donation](https://bcionescu.com). Alternatively, you can [leave a star](https://github.com/bcionescu/Books) on this repo, if you have a GitHub account, or leave a review on websites such as Goodreads.
+Hi, I’m Cristian, the author of this story. I make my works available for free for everyone to read. If you would like to help me produce more works such as these, consider supporting me by purchasing a story from [my store](https://shop.bcionescu.com), from [Amazon](https://geni.us/protectorate), or by [making a donation](https://bcionescu.com). Alternatively, you can [leave a star](https://github.com/bcionescu/Books) on this repo, if you have a GitHub account, or leave a review on websites such as Goodreads.
 
 [Go back to the README](https://github.com/bcionescu/Books)
