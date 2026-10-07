@@ -9,7 +9,6 @@ _Short Sci-Fi story, approx. 6200 words, 45 minute reading time_
   
   <div align="left">
     <p>While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my <a href="https://shop.bcionescu.com">personal store</a>.</p>
-
     <p>
       <i>How does technology shape culture, and by extension, human behavior? In the near future, humans receive a neuralbond implant at birth, making it possible to communicate via thought.</i>
     </p>
