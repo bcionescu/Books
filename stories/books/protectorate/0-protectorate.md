@@ -7,9 +7,7 @@ _Sci-Fi Novel, approx. 60,000 words, 7.5 hour reading time_
   <a href="00-prologue.md"><img src="../../../assets/covers/protectorate-cover.webp" width="200" align="left" style="margin-right: 20px;" /></a>
   
   <div align="left">
-   <p>
-   While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my [personal store](https://shop.bcionescu.com).
-   </p>
+    <p>While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my <a href="https://shop.bcionescu.com">personal store</a>.</p>
 
     <p>
       <i>We never have enough choices, never enough. When a choice presents itself, you take it. You take it and run, and hope nobody ever tries to grab it from you.</i>
