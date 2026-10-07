@@ -5,7 +5,7 @@ _Short Sci-Fi story, approx. 6200 words, 45 minute reading time_
 
 
 <div id="header" align="center">
-  <a href="chapter-1.md"><img src="../../../assets/covers/whisper-cover.webp" width="200" align="left" style="margin-right: 20px;" /><a>
+  <a href="chapter-1.md"><img src="../../../assets/covers/whisper-cover.webp" width="200" align="left" style="margin-right: 20px;" /></a>
   
   <div align="left">
    <p>

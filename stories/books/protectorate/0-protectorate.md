@@ -4,7 +4,7 @@ _Sci-Fi Novel, approx. 60,000 words, 7.5 hour reading time_
 ## Synopsis
 
 <div id="header" align="center">
-  <a href="00-prologue.md"><img src="../../../assets/covers/protectorate-cover.webp" width="200" align="left" style="margin-right: 20px;" /><a>
+  <a href="00-prologue.md"><img src="../../../assets/covers/protectorate-cover.webp" width="200" align="left" style="margin-right: 20px;" /></a>
   
   <div align="left">
    <p>
