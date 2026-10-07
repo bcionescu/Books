@@ -8,7 +8,7 @@ _Sci-Fi Novel, approx. 60,000 words, 7.5 hour reading time_
   
   <div align="left">
    <p>
-   While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my [personal store](https://shop.bcionescu.com/).
+   While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my [personal store](https://shop.bcionescu.com).
    </p>
 
     <p>

@@ -9,7 +9,7 @@ _Short Sci-Fi story, approx. 6200 words, 45 minute reading time_
   
   <div align="left">
    <p>
-   While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my [personal store](https://shop.bcionescu.com/).
+   While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my [personal store](https://shop.bcionescu.com).
    </p>
 
     <p>
