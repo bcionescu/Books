@@ -8,6 +8,10 @@ _Short Sci-Fi story, approx. 6200 words, 45 minute reading time_
   <a href="chapter-1.md"><img src="../../../assets/covers/whisper-cover.webp" width="200" align="left" style="margin-right: 20px;" /><a>
   
   <div align="left">
+   <p>
+   While the story is completely free to read, if you'd like a nicely formatted .epub or .pdf, you can buy the book on my [personal store](https://shop.bcionescu.com/).
+   </p>
+
     <p>
       <i>How does technology shape culture, and by extension, human behavior? In the near future, humans receive a neuralbond implant at birth, making it possible to communicate via thought.</i>
     </p>
