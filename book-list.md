@@ -10,40 +10,40 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 
 ### Alfred Bester
 
-- [The Demolished Man](https://geni.us/TheDemolishedManBook)
-- [The Stars My Destination](https://geni.us/StarsMyDestinationBook)
+- [The Demolished Man](https://amzn.to/3VOeOaA)
+- [The Stars My Destination](https://amzn.to/3W40laA)
 
 ### Arthur C. Clarke
-- Holiday on the Moon
-- 2001: A Space Odyssey
-- The Nine Billion Names of God
+- [Holiday on the Moon](https://amzn.to/4s3FEYo)
+- [2001: A Space Odyssey](https://amzn.to/4hV9XM7)
+- [The Nine Billion Names of God](https://amzn.to/4i2wUgz)
 
 ### B. C. Ionescu (hey, that's me!)
-- [Protectorate](https://geni.us/Protectorate)
+- [Protectorate](https://amzn.to/4jVenFm)
 
 Set deep underneath California, centuries after a cataclysmic event, Protectorate is the story of citizen A-376, who is tasked with rooting out a rebel faction that threatens to end the life of everyone he has ever known. His reward? A life extension which would allow him to live past the age of twenty-eight.
 
 ### Daniel Keyes
-- [Flowers for Algernon](https://geni.us/FlowersForAlgernonBook)
+- [Flowers for Algernon](https://amzn.to/47dObym)
 
 This masterpiece explores the correlation between intelligence and happiness. The main character, Charlie, was born with an IQ way below average, and all he wanted was to be smart. After a group of scientists perform an operation on him, his intelligence begins to rise. The book is written from his perspective, as a journal, detailing how his perception of the world changes with ever-increasing intelligence.
 
 ### Douglas Adams
-- [Hitchhiker's Guide to the Galaxy](https://geni.us/HitchhikersGuideBook)
-- [The Restaurant at the End of the Universe](https://geni.us/RestaurantAtTheEndBook)
-- [Life, The Universe and Everything](https://geni.us/LifeTheUniverseBook)
+- [Hitchhiker's Guide to the Galaxy](https://amzn.to/4zqOyBC)
+- [The Restaurant at the End of the Universe](https://amzn.to/4zv3VJe)
+- [Life, The Universe and Everything](https://amzn.to/4ebsPp3)
 
 ### Frank Herbert
-- [Dune](https://geni.us/OriginalDuneBook)
+- [Dune](https://amzn.to/3TPIAex)
 
 The Dune series explores the following theme: What happens when a charismatic leader becomes embroiled in a prophecy? Is Paul Atreides really the hero of Dune, or did Dune simply trade one dictator for another?
 
-- [Dune Messiah](https://geni.us/DuneMessiahBook)
-- [Children of Dune](https://geni.us/ChildrenOfDuneBook)
-- [God Emperor of Dune](https://geni.us/GodEmperorOfDuneBook)
+- [Dune Messiah](https://amzn.to/4ik8IHG)
+- [Children of Dune](https://amzn.to/4hJ63qX)
+- [God Emperor of Dune](https://amzn.to/4jpWRZT)
 - [Heretics of Dune](https://geni.us/HereticsOfDuneBook)
-- [Chapterhouse Dune](https://geni.us/ChapterhouseDuneBook)
-- [The Godmakers](https://geni.us/TheGodmakersBook)
+- [Chapterhouse Dune](https://amzn.to/47Tpd7y)
+- [The Godmakers](https://amzn.to/4zo3jFo)
 
 ### Jules Verne
 - From the Earth to the Moon
