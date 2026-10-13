@@ -19,8 +19,8 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 - [The Nine Billion Names of God](https://amzn.to/4i2wUgz)
 
 ### B. C. Ionescu (hey, that's me!)
-- Protectorate [[Amazon](https://amzn.to/4jVenFm)] [[My Shop](https://shop.bcionescu.com/l/protectorate?layout=profile)]
-- Whisper [[My Shop](https://shop.bcionescu.com/l/whisper-short?layout=profile)]
+- Protectorate [ [Amazon](https://amzn.to/4jVenFm)] [[My Shop](https://shop.bcionescu.com/l/protectorate?layout=profile) ]
+- Whisper [ [My Shop](https://shop.bcionescu.com/l/whisper-short?layout=profile) ]
 
 Set deep underneath California, centuries after a cataclysmic event, Protectorate is the story of citizen A-376, who is tasked with rooting out a rebel faction that threatens to end the life of everyone he has ever known. His reward? A life extension which would allow him to live past the age of twenty-eight.
 
