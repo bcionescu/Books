@@ -19,7 +19,8 @@ DISCLAIMER: By the way, I've included affiliate links with some of the books. If
 - [The Nine Billion Names of God](https://amzn.to/4i2wUgz)
 
 ### B. C. Ionescu (hey, that's me!)
-- [Protectorate](https://amzn.to/4jVenFm)
+- Protectorate [[Amazon](https://amzn.to/4jVenFm)] [[My Shop](https://shop.bcionescu.com/l/protectorate?layout=profile)]
+- Whisper [[My Shop](https://shop.bcionescu.com/l/whisper-short?layout=profile)]
 
 Set deep underneath California, centuries after a cataclysmic event, Protectorate is the story of citizen A-376, who is tasked with rooting out a rebel faction that threatens to end the life of everyone he has ever known. His reward? A life extension which would allow him to live past the age of twenty-eight.
 
@@ -41,7 +42,7 @@ The Dune series explores the following theme: What happens when a charismatic le
 - [Dune Messiah](https://amzn.to/4ik8IHG)
 - [Children of Dune](https://amzn.to/4hJ63qX)
 - [God Emperor of Dune](https://amzn.to/4jpWRZT)
-- [Heretics of Dune](https://geni.us/HereticsOfDuneBook)
+- [Heretics of Dune](https://amzn.to/4yh2InK)
 - [Chapterhouse Dune](https://amzn.to/47Tpd7y)
 - [The Godmakers](https://amzn.to/4zo3jFo)
 
@@ -58,19 +59,19 @@ The Dune series explores the following theme: What happens when a charismatic le
 - Wheelworld
 
 ### Isaac Asimov
-- [Prelude to Foundation](https://geni.us/PreludeToFoundation)
-- [Forward to Foundation](https://geni.us/ForwardToFoundation)
-- [Foundation](https://geni.us/FoundationBook)
+- [Prelude to Foundation](https://amzn.to/3UtWxPv)
+- [Forward to Foundation](https://amzn.to/4etxuTm)
+- [Foundation](https://amzn.to/4dCbENe)
 
 Every empire throughout history peaks, and then, inevitably, collapses. The demise comes slowly at first, and then all at once. The Foundation explores what happens to its technology, once the power structures disappear. Who will there be left to fill the void?
 
-- [Foundation and Empire](https://geni.us/FoundationAndEmpire)
-- [Second Foundation](https://geni.us/SecondFoundation)
-- [Foundation's Edge](https://geni.us/FoundationsEdge)
-- [Foundation and Earth](https://geni.us/FoundationAndEarth)
-- [Pebble in the Sky](https://geni.us/PebbleInTheSky)
-- [The Stars, Like Dust](https://geni.us/TheStarsLikeDust)
-- [The Currents of Space](https://geni.us/TheCurrentsOfSpace)
+- [Foundation and Empire](https://amzn.to/4BaTEUu)
+- [Second Foundation](https://amzn.to/4yOnXOU)
+- [Foundation's Edge](https://amzn.to/4B3GrN5)
+- [Foundation and Earth](https://amzn.to/4hKNiDy)
+- [Pebble in the Sky](https://amzn.to/3TQRSXK)
+- [The Stars, Like Dust](https://amzn.to/4s3Z13z)
+- [The Currents of Space](https://amzn.to/4hXAo3R)
 
 ### Kurt Vonnegut
 - Slaughterhouse-Five
