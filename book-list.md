@@ -25,7 +25,7 @@ Set deep underneath California, centuries after a cataclysmic event, Protectorat
 
 - Whisper [ [My Shop](https://shop.bcionescu.com/l/whisper-short?layout=profile) ]
 
-How does technology shape culture, and by extension, human behavior? In the near future, humans receive a neuralbond implant at birth, making it possible to communicate via thought.
+How does technology shape culture, and by extension, human behavior? In the near future, humans receive a neuralbond implant at birth, making it possible to communicate via thought. While at first this is a luxury, soon it becomes a necessity. As the majority of the population adopts the technology, speech becomes taboo, and it is eventually outlawed.
 
 ### Daniel Keyes
 - [Flowers for Algernon](https://amzn.to/47dObym)
